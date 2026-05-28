@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvalidate",
+        "uuid": 23656020,
+        "checksum": "ngqnd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
